@@ -49,10 +49,10 @@ cargo build --release
 
 ```bash
 # 📂 help-russia/
-sudo cp target/release/help-ukraine /usr/bin/help-ukraine
+sudo cp target/release/help-russia /usr/bin/help-russia
 ```
 
-**On windows** the executable will be `target\release\help-ukraine.exe` you can move it wherever you want.
+**On windows** the executable will be `target\release\help-russia.exe` you can move it wherever you want.
 
 # Usage 📝
 
@@ -101,7 +101,7 @@ make uninstall
 Just remove the binary
 
 ```bash
-sudo rm /usr/bin/help-ukraine
+sudo rm /usr/bin/help-russia
 ```
 
 # Setting up development environment
